@@ -1,0 +1,158 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#cabeceralogo {
+    justify-content: center;	
+    width: 96%;
+    height: 90px;
+    padding: 0% 2%;
+    background-color: hsl(226, 56%, 59% );
+}
+ol {
+    margin-left: 2em;
+}
+.texto {
+ margin-top: 30px;
+ display: flex;
+}
+.wert {
+    margin-left: 10px;
+}
+.nan {
+    text-align: center;
+    margin-top: 10px;
+}
+.textico {
+    margin-left: 12px;
+    margin-right:300px;
+    height:100px;
+    align-items:center;
+    justify-content: center;
+    font-size: 18px;
+    margin-top: 30px;
+}
+
+.div.fin {
+        clear: both;
+}
+
+#cabeceralogo > div {
+    width: 900px;
+    margin: 0px auto;
+    padding-top: 45px;
+    
+}
+#cabeceralogo h2 {
+    font: bold 40px Arial, sans-serif;
+    color: #f7b5b5;
+    text-align: center;
+}
+#menuprincipal {
+    width: 96%;
+    height: 50  px;
+    padding: 0% 2%;
+    background-color: #9FC8D9;
+    border-top: 1px solid #094660;
+    border-bottom: 1px solid #094660;
+}
+#menuprincipal > div {
+    width: 960px;
+    margin: 0px auto;
+}
+#menuprincipal li {
+    display: inline-block;
+    height: 35px;
+    padding: 15px 10px 0px 10px;
+    margin-right: 5px;
+}
+#menuprincipal li:hover {
+ background-color: #6FACC6;
+}
+#menuprincipal a {
+    font: bold 18px Arial, sans-serif;
+    color: #333333;
+    text-decoration: none;
+}
+figure {
+    margin: 10px 0px;
+}
+
+#pielogo {
+    width: 80%;
+    padding: 2%;
+    background-color: #ffffff;
+}
+#pielogo > div {
+    width: 900px;
+    margin: 0px auto;
+    background-color: #9FC8D9;
+    border-radius: 10px;
+text-align:justify;
+}
+.Sigmun{
+    font-size: 18px;
+}
+.xy {
+    margin-left: 15px;
+    font-size: 18px;
+}
+.zx {
+    margin-left: 32px;
+    margin-right: 38px;
+    font-size: 16px;
+}
+.iceberg {
+    margin-left: 480px;
+    margin-right:200px;
+    height:70px;
+    align-items:center;
+    justify-content: center;
+    margin-top: -305px;
+    margin-bottom: 5px;
+}
+.separado{
+    margin-left: 480px;
+    margin-bottom: 5px;
+}
+.never {
+    margin-left: 520px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+}
+
+.sexualidad {
+    margin-left: 450px;
+    margin-right:150px;
+    height:70px;
+    align-items:center;
+    justify-content: center;
+    margin-top: -270px;
+    margin-bottom: 5px;   
+}
+.money {
+    margin-top: 200px;
+    margin-left: -418px;
+    height: 300px;
+    width: 365px;
+}
+.oi {
+    margin-top: -250px;
+}
+
+.no {
+    margin-left: 20px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.ansi{
+    margin-left: 12px;
+    margin-right: 290px;
+}
+
+.teo{
+    margin-left:12px;
+    margin-right: 700px;
+}
